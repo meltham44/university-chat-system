@@ -5,4 +5,4 @@ A chat bot system for fictional university, "Poppleton University". Made intenti
 ## Requirements
 [Python 3.7+](https://www.python.org/downloads/)
 ## Getting Started
-Clone the repo locally and run university-chat-system.py in your preferred IDE.
+Clone the repo locally and run university_chat_system.py in your preferred IDE.
